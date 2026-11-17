@@ -16,6 +16,18 @@ The thesis analyzed **1,955 MDD narratives (1.79M words)** and **2,654 BD narrat
 
 ![Additional reported outcomes](figures/additional-outcomes.svg)
 
+### Reading the patterns
+
+The thesis uses **Appraisal Theory** to study three kinds of evaluation: **Affect** (emotional responses), **Judgment** (evaluations of people and behavior), and **Appreciation** (evaluations of things, experiences, and situations). Judgment is the largest category in both sets of narratives. The balance of the other two categories differs: MDD narratives contain a larger share of Appreciation, while BD narratives contain a larger share of Affect. These are contrasts in the analyzed texts, not measures of symptom severity or differences between all people with either diagnosis.
+
+Judgment is concentrated in **Social Esteem**—85% of MDD and 88% of BD Judgment evaluations. The thesis identifies Capacity as the most prominent Judgment subcategory, with Propriety also prominent, and reports more positive than negative Judgments overall (pp. 128–129). In the thesis’s interpretation, this emphasis reflects how narrators evaluate their own capacities and their relationships with others; it should be read as a pattern in forum language, not as a clinical conclusion.
+
+For Affect, **Pleasure, Misery, and Fear** are the most frequent emotion types in both corpora. The thesis reports negative emotions at 56% for MDD and 52% for BD (p. 128), so positive and negative emotional language both form substantial parts of the narratives. For Appreciation, **Complexity, Valuation, and Quality** are the leading subtypes. Complexity evaluations are often negative; Composition (Balance and Complexity together) accounts for 54% of Appreciation evaluations in MDD and 61% in BD, while Impact is relatively uncommon (4% and 3%; p. 129).
+
+The thesis also examines **syntactic fields of adjectives** as a way to identify appraisal-bearing expressions. It reports attitudinal evaluations in 71% of retrieved fields for MDD and 85% for BD, with 76% overall (pp. 146–147). This adds a linguistic-pattern layer to the semantic categories above; it does not change the corpus-level limits of the study.
+
+**How to interpret these results:** the corpora consist of online narratives with self-reported diagnoses. They are not a representative or clinically verified sample. The thesis notes inconsistent forum formatting and insufficient personal information for demographic analysis (pp. 13–14). The percentages summarize this dataset and should not be generalized to diagnose individuals or estimate how common these experiences are in a wider population.
+
 [Detailed results and thesis information below](#main-results)
 
 

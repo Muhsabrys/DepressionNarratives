@@ -8,9 +8,15 @@ The thesis analyzed **1,955 MDD narratives (1.79M words)** and **2,654 BD narrat
 - Negative emotions were 56% of MDD and 52% of BD Affect evaluations. Social Esteem made up 85% of MDD and 88% of BD Judgment evaluations (p. 128).
 - Attitudinal syntactic fields were reported at 71% for MDD and 85% for BD (76% combined; pp. 146–147).
 
+### Figures
+
+![Corpus profile: narrative counts and corpus word totals](figures/corpus-profile.svg)
+
 ![Appraisal categories across the two corpora](figures/appraisal-types.svg)
 
-[Corpus profile](figures/corpus-profile.svg) · [Additional outcomes](figures/additional-outcomes.svg) · [All results and thesis details below](#main-results)
+![Additional reported outcomes](figures/additional-outcomes.svg)
+
+[Detailed results and thesis information below](#main-results)
 
 
 This repository contains two collections of forum narratives in which authors self-report a diagnosis of Major Depressive Disorder (MDD) or Bipolar Disorder (BD). They were assembled for Muhammad Sabry Abd-ElHady Abdo’s 2020 MA thesis on appraisal in mental-health forum narratives. The corpus reflects online self-disclosures; the thesis notes that inconsistent forum formatting and limited personal information constrain demographic analysis (thesis, pp. 13–14).

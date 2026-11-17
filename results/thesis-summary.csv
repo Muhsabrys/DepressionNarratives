@@ -1,0 +1,21 @@
+measure,group,value,unit,thesis_page,notes
+Narratives,MDD,1955,count,14,Corpus profile
+Narratives,BD,2654,count,14,Corpus profile
+Corpus words,MDD,1792719,words,14,Corpus profile
+Corpus words,BD,1675411,words,14,Corpus profile
+Affect,MDD,23,percent,127-128,Share of appraisal evaluations as reported
+Judgment,MDD,41,percent,127-128,Share of appraisal evaluations as reported
+Appreciation,MDD,37,percent,127-128,Share of appraisal evaluations as reported
+Affect,BD,30,percent,127-128,Share of appraisal evaluations as reported
+Judgment,BD,42,percent,127-128,Share of appraisal evaluations as reported
+Appreciation,BD,28,percent,127-128,Share of appraisal evaluations as reported
+Negative emotions,MDD,56,percent,128,Share of Affect evaluations
+Negative emotions,BD,52,percent,128,Share of Affect evaluations
+Social Esteem,MDD,85,percent,128,Share of Judgment evaluations
+Social Esteem,BD,88,percent,128,Share of Judgment evaluations
+Attitudinal fields,MDD,71,percent,147,Share of retrieved syntactic fields
+Not Applicable fields,MDD,29,percent,147,Share of retrieved syntactic fields
+Attitudinal fields,BD,85,percent,147,Share of retrieved syntactic fields
+Not Applicable fields,BD,15,percent,147,Share of retrieved syntactic fields
+Attitudinal fields,Combined,76,percent,147,Share of retrieved syntactic fields
+Not Applicable fields,Combined,24,percent,147,Share of retrieved syntactic fields
